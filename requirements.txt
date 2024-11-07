@@ -1,7 +1,7 @@
 academictorrents==2.3.3
 albumentations==1.4.3
 clip==0.2.0
-datasets==2.18.0
+datasets
 diffusers==0.11.1
 einops==0.4.1
 ftfy==6.2.0
