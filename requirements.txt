@@ -6,7 +6,7 @@ diffusers==0.11.1
 einops==0.4.1
 ftfy==6.2.0
 horovod==0.28.1
-huggingface_hub==0.19.5  # 调整版本以兼容 transformers 和 datasets
+huggingface_hub==0.19.4  # 调整版本以兼容 transformers 和 datasets
 kornia==0.6.4
 matplotlib==3.7.5
 more_itertools==10.2.0
