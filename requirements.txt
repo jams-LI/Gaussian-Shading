@@ -1,12 +1,12 @@
 academictorrents==2.3.3
 albumentations==1.4.3
 clip==0.2.0
-datasets
+datasets==2.18.0
 diffusers==0.11.1
 einops==0.4.1
 ftfy==6.2.0
 horovod==0.28.1
-huggingface_hub==0.19.4  # 指定兼容版本
+huggingface_hub==0.19.5  # 调整版本以兼容 transformers 和 datasets
 kornia==0.6.4
 matplotlib==3.7.5
 more_itertools==10.2.0
@@ -20,7 +20,7 @@ PyYAML==6.0.1
 regex==2023.12.25
 Requests==2.31.0
 scipy==1.13.0
-scikit-image==0.23.2  # 指定版本，确保与conda环境一致
+scikit-image==0.23.2  # 修正版本号
 timm==0.5.4
 torch==1.13.0
 torchvision==0.14.0
